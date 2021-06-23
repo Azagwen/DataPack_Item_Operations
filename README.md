@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Datapack Item Operations
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
+###user
+Intall the mod and put it in your game's "mods" folder, you can now use the mod's datapack features.
+###Developper
+WIP
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the MIT license.
