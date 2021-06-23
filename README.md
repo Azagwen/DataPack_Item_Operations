@@ -2,9 +2,10 @@
 
 ## Setup
 
-###user
+### user
 Intall the mod and put it in your game's "mods" folder, you can now use the mod's datapack features.
-###Developper
+
+### Developper
 WIP
 ## License
 
