@@ -1,0 +1,15 @@
+{
+    "data_type": "atbyw:block_to_block",
+    "replace": false,
+    "item_used": {
+        "item": "minecraft:deepslate",
+        "decrement": 1
+    },
+    "targets": {
+        "minecraft:gold_ore": {
+            "result": "minecraft:deepslate_gold_ore",
+            "sound": "minecraft:item.axe.strip",
+            "loot": "minecraft:stone"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "dp_item_ops",
+  "version": "${version}",
+
+  "name": "Datapac Item Operations",
+  "description": "A mod that allows data-driven Item Operations* via Datapacks \n Item Operations = Axe stripping/scraping, Hoe tilling, etc...",
+  "authors": [
+    "Azagwen"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.azagwen.dp_item_ops.DpItemOpsMain"
+    ]
+  },
+  "mixins": [
+    "dp_item_ops.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

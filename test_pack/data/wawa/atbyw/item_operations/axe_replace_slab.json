@@ -1,0 +1,14 @@
+{
+    "data_type": "atbyw:block_to_block",
+    "replace": false,
+    "tag_used": {
+        "tag": "fabric:axes",
+        "damage": 1
+    },
+    "targets": {
+        "atbyw:oak_log_slab": {
+            "result": "atbyw:white_concrete_slab",
+            "sound": "minecraft:item.axe.scrape"
+        }
+    }
+}
