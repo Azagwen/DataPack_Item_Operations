@@ -1,0 +1,73 @@
+{
+    "data_type": "dp_item_ops:block_to_block",
+    "item_used": {
+        "item": "minecraft:lime_dye",
+        "decrement": 1
+    },
+    "targets": {
+        "minecraft:shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:white_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:orange_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:magenta_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:light_blue_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:yellow_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:pink_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:gray_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:light_gray_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:cyan_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:purple_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:blue_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:brown_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:green_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:red_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        },
+        "minecraft:black_shulker_box": {
+            "result": "minecraft:lime_shulker_box",
+            "sound": "minecraft:item.dye.use"
+        }
+    }
+}
