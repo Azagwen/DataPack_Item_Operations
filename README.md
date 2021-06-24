@@ -1,5 +1,9 @@
 # Datapack Item Operations
 
+A mod that allows data-driven Item Operations via Datapack.
+
+The mod adds a "dp_item_ops" folder to the vanilla data folder which allows for the addition of more data types, such as Item operations.
+
 ## Installation 
 
 Download the mod and put it in your game's "mods" folder, you can now use the mod's datapack features.
