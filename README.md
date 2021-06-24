@@ -1,12 +1,12 @@
 # Datapack Item Operations
 
-## Setup
+## Installation 
 
-### user
-Intall the mod and put it in your game's "mods" folder, you can now use the mod's datapack features.
+Download the mod and put it in your game's "mods" folder, you can now use the mod's datapack features.
 
-### Developper
+## Developpers
 WIP
+
 ## License
 
 This mod is available under the MIT license.
